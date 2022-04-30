@@ -21,7 +21,7 @@ All extracted information will be saved as a .txt file in order to be reachable 
 The main challenge is that the code gets bigger and in the end some minor mistakes prevented it from running so I speeded some time on debugging.
 
 ## Results
-![](resources/Election_output.PNG)
+![](Resources/Election_output.PNG)
 According to the final file total number of votes is 369,711. The largest county turnover was in Denver: 82.8% (306,055) the other counties are Jefferson: 10.5% (38,855) and Arapahoe: 6.7% (24,801). The absolute winner of the election is Diana DeGette who received the main number of votes which is 73.8% and total number of votes 272,892 the other candidates are Charles Casper Stockham: 23.0% (85,213) and Raymon Anthony Doane: 3.1% (11,606)
 
 ## Summary
